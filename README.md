@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shuan0j?theme=light&font=Bayon)
 <!--
 **Shuan0j/Shuan0j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
