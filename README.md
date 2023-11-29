@@ -1,4 +1,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shuan0j?theme=unicorn&font=Catamaran)
+
+2022 Graduated from NKUST EE.
+First job working at 慧邦科技 as a game client engineer.
 <!--
 **Shuan0j/Shuan0j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
